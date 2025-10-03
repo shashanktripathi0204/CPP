@@ -10,3 +10,9 @@ prog5_inverted_numeric_half_pyramid
 prog6_hollow_inverted_half_pyramid
 prog7_full_pyramid
 prog8_hollow_full_pyramid
+prog1_bitwise_and
+prog2_bitwise_or
+prog3_bitwise_not
+prog4_bitwise_xor
+prog5_left_shift_operator
+prog6_rigth_shift_operator
