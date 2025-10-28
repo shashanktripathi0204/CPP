@@ -1,3 +1,4 @@
+.gitignore
 hello_world.dSYM
 hello_world
 .vscode
@@ -16,3 +17,15 @@ prog3_bitwise_not
 prog4_bitwise_xor
 prog5_left_shift_operator
 prog6_rigth_shift_operator
+prog1_basic
+prog2_max_of_3_values
+prog7_count_all_set_bits
+prog2_array_initialisation
+prog3_indexing
+prog4_linear_search
+prog5
+prog6_pass_by_reference
+prog7_find_unique_element
+prog8_print_paris
+prog9_sort_0_and_1
+prog10_shiftarray_element_by_1
