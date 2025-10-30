@@ -1,4 +1,5 @@
 .gitignore
+Info.plist
 hello_world.dSYM
 hello_world
 .vscode
@@ -32,3 +33,10 @@ prog10_shiftarray_element_by_1
 prog1_dynamic_array
 prog2_vector_initialization
 prog3_vector
+prog1_initialise
+prog2_basic
+prog3_linear_search
+prog4
+test
+prog5_transpose
+prog6_transpose_same
