@@ -43,3 +43,5 @@ prog6_transpose_same
 .DS_Store
 test.cpp
 prog4_2D_vector
+prog1
+prog2.cpp
