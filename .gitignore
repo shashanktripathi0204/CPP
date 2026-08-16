@@ -30,6 +30,8 @@ prog7_find_unique_element
 prog8_print_paris
 prog9_sort_0_and_1
 prog10_shiftarray_element_by_1
+prog12_shiftarray_element_by_k_O_1_space_complexity
+prog11_shiftarray_element_by_k_O_N_space_complexity
 prog1_dynamic_array
 prog2_vector_initialization
 prog3_vector
@@ -44,4 +46,4 @@ prog6_transpose_same
 test.cpp
 prog4_2D_vector
 prog1
-prog2.cpp
+prog2
